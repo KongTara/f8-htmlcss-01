@@ -183,6 +183,20 @@ a {
     margin-top: 97px;
 }
 
+.clients .img-row-two {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 0px 42px;
+    border-radius: 12px;
+    background: #fff;
+}
+
+.image .img-row-two:hover {
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
 /* Guides */
 .guides {
     margin-top: 40px;
@@ -613,7 +627,7 @@ a {
     width: 28px;
     height: 28px;
     background: #f9f9f9;
-    margin-right: 18px;
+    margin-right: 16px;
 }
 
 .footer .social-link:hover {
