@@ -51,6 +51,7 @@ a {
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
+
 /* Header */
 .fixed-header {
     background: #e6f0ff;
